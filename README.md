@@ -14,10 +14,8 @@ I have a strong focus on **backend architecture, APIs, databases, automation, cl
   <a href="https://github.com/juliocezardasilva">
     <img src="https://img.shields.io/badge/GitHub-juliocezardasilva-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/eu_juliosilva_">
-    <img src="https://img.shields.io/badge/Instagram-40%eu_juliosilva_
--E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://www.instagram.com/eu_juliosilva_/"> <img src="https://img.shields.io/badge/Instagram-eu__juliosilva_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+  </a> 
 </p>
 
 ---
