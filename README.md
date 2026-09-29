@@ -58,14 +58,13 @@ I have a strong focus on **backend architecture, APIs, databases, automation, cl
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juliocezardasilva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocezardasilva&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juliocezardasilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocezardasilva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
 ## 🎯 About My Journey
 
 _An evolving software developer. My focus is on building complete systems—connecting code logic to architecture, APIs, security, and business rules. I believe in active learning, continuously developing projects to transform theory into practical experience and real-world results._
